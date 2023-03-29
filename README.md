@@ -2,7 +2,7 @@
 
 Contains the publicly available resources for the Probabilistic Graphical Models
 
-Youtube videos:
+# Youtube videos:
 
 https://www.youtube.com/watch?v=XgP2hmf7X4U
 
