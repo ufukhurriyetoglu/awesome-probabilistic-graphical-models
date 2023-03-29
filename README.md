@@ -1,5 +1,6 @@
 # awesome-probabilistic-graphical-models
 
+Contains the publicly available resources for the Probabilistic Graphical Models
 
 Youtube videos:
 
